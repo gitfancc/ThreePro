@@ -6,3 +6,9 @@ git is the best tool to manage the
 hello 1
 =======
 this is the second edition
+
+======
+third edition to reset
+
+========
+fourth edition to reset
