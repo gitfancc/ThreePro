@@ -1,3 +1,9 @@
 this is the first time to 
 this si the second time to 
 git is the best tool to manage the
+<<<<<<< HEAD
+
+hello 1
+=======
+this is the second edition
+>>>>>>> 2df514a653612c76f06d78bdcb45ec9b1540db3b
