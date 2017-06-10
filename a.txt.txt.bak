@@ -20,10 +20,10 @@ commit to branch dev
 
 commit to branch dev again
 
-<<<<<<< HEAD
+
 -----------------
 test fix conficts
-=======
+
 ----------------------
 second time to do it  test merge when conflicts happen
->>>>>>> dev
+
