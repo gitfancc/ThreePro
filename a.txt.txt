@@ -26,4 +26,10 @@ test fix conficts
 
 ----------------------
 second time to do it  test merge when conflicts happen
-==============
+
+
+
+
+----------------
+after stashed first to staged
+
