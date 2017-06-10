@@ -22,3 +22,6 @@ commit to branch dev again
 
 ----------------------
 second time to do it  test merge when conflicts happen
+
+----------------
+after stashed first to staged
